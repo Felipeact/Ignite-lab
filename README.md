@@ -70,7 +70,7 @@ Run the following command in order to start the application in a development env
 
 **Question:** What are the technologies used in this project?
 
-**Answer:** The tecnologies used in this project are [NextJs](https://nextjs.org/) + [Graphql](https://www.npmjs.com/package/json-server) to handle Http mutations and queries & [kafka](https://styled-components.com/) for comunicating backends between each other [Tailwind](https://styled-components.com/) to handle the styles architecture and a better maintenance than normal CSS and [Apollo](https://styled-components.com/) for creating only one url for frontend requests.
+**Answer:** The tecnologies used in this project are [NextJs](https://nextjs.org/) + [Graphql](https://graphql.org/) to handle Http mutations and queries & [kafka](https://kafka.apache.org/) for comunicating backends between each other [Tailwind](https://tailwindcss.com/) to handle the styles architecture and a better maintenance than normal CSS and [Apollo](https://www.apollographql.com/) for creating only one url for frontend requests.
 ##
 
 ##
